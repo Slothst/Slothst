@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&text=Slothst&section=header&fontSize=70&fontAlign=80&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&text=Slothst&section=header&fontSize=70&fontAlign=50&animation=twinkling&witdh=100%)
 
 <!--
 **Slothst/Slothst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
