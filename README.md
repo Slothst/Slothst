@@ -1,6 +1,3 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=Slothst&desc=BackEnd%20Developer&descAlignY=60&section=header&fontSize=70&animation=twinkling&fontColor=E2D2CE&fontAlignY=35"
-</div>
 <h3 align="center"> 💡 PERSONAL BLOG </h3>
 <p align="center">
   <a href="https://velog.io/@cnj9912" target="_blank"><img src="https://img.shields.io/badge/velog-20C997?style=flat-square&logo=velog&logoColor=ffffff"/></a>
